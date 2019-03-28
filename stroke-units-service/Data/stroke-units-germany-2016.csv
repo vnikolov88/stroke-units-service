@@ -1,0 +1,311 @@
+;Städtisches Klinikum Dresden-Friedrichstadt;Friedrichstr. 41;01067 Dresden;1;41624
+;Städtisches Krankenhaus Dresden-Neustadt;Industriestr. 40;01129 Dresden;1;41624
+;Klinikum Niederlausitz GmbH;Krankenhausstr. 10;01968 Senftenberg;1;41624
+;Städtisches Klinikum Görlitz gGmbH;Girbigsdorfer Str. 1-3;02828 Görlitz;1;41624
+;Carl-Thiem-Klinikum Cottbus gGmbH;Thiemstr. 111;03048 Cottbus;1;41624
+;Universitätsklinikum Leipzig;Liebigstr. 20;04103 Leipzig;1;41624
+;Klinikum St. Georg gGmbH;Delitzscher Str. 141;04129 Leipzig;1;41624
+;Sana Kliniken Leipziger Land, Sana Klinik Borna;Rudolf-Virchow-Str. 2;04552 Borna;1;41624
+;Sächsisches Krankenhaus für Psychiatrie und Neurologie Altscherbitz;Leipziger Str. 59;04435 Schkeuditz;1;41624
+;Klinikum Altenburger Land GmbH ;Am Waldessaum 10;04600 Altenburg;1;41624
+;ELBLANDKLINIKEN Stiftung & Co. KG, Elblandklinikum Meißen;Nassauweg 7;01662 Meißen;1;41624
+;Fachkrankenhaus Hubertusburg gGmbH;Hubertusburg Gebäude 88;04779 Wermsdorf;1;41624
+;Berufsgenossenschaftliche Kliniken Bergmannstrost;Merseburger Str. 165;06112 Halle (Saale);1;41624
+;Krankenhaus Martha-Maria Halle-Dölau gGmbH;Röntgenstr. 1;06120 Halle (Saale);1;41624
+;UKH Universitätsklinikum Halle ;Ernst-Grube-Str. 40;06120 Halle (Saale);1;41624
+;AMEOS Klinikum Bernburg;Kustrenaer Str. 98;06406 Bernburg;1;41624
+;Klinikum Burgenlandkreis GmbH, Saale-Unstrut Klinikum Naumburg;Humboldtstr. 31;06618 Naumburg;1;41624
+;SRH Wald-Klinikum Gera GmbH;Straße des Friedens 122;07548 Gera;1;41624
+;Universitätsklinikum Jena;Erlanger Allee 101;07747 Jena;1;41624
+;Heinrich-Braun-Klinikum Zwickau gGmbH;Karl-Keil-Str. 35;08060 Zwickau;1;41624
+;HELIOS Klinikum Aue;Gartenstr. 6;08280 Aue;1;41624
+;HELIOS Vogtland-Klinikum Plauen GmbH;Röntgenstr. 2;08529 Plauen;1;41624
+;Klinikum Chemnitz gGmbH;Flemmingstr. 2;09116 Chemnitz;1;41624
+;Diakoniekrankenhaus Chemnitzer Land gGmbH;Limbacher Str. 19b;09232 Hartmannsdorf;1;41624
+;Kreiskrankenhaus Freiberg gGmbH;Donatsring 20;09599 Freiberg;1;41624
+;Charité-Universitätsmedizin Berlin, Campus Mitte (CCM);Charitéplatz 1;10117 Berlin;1;41624
+;Vivantes Klinikum im Friedrichshain;Landsberger Allee 49;10249 Berlin;1;41624
+;Evangelisches Krankenhaus Königin Elisabeth Herzberge gGmbH;Herzbergstr. 79;10365 Berlin;1;41624
+;Vivantes Auguste-Viktoria Klinikum;Rubensstr. 125;12157 Berlin;1;41624
+;Charité - Universitätsmedizin Berlin, Campus Benjamin Franklin;Hindenburgdamm 30;12203 Berlin;1;41624
+;Vivantes Klinikum Neukölln;Rudower Str. 48;12351 Berlin;1;41624
+;DRK Kliniken Berlin | Köpenick;Salvador-Allende-Str. 2-8;12559 Berlin;1;41624
+;Unfallkrankenhaus Berlin - ukb;Warener Str. 7;12683 Berlin;1;41624
+;Park-Klinik Weissensee;Schönstr. 80;13086 Berlin;1;41624
+;HELIOS Klinikum Berlin-Buch;Schwanebecker Chaussee 50;13125 Berlin;1;41624
+;Jüdisches Krankenhaus Berlin;Heinz-Galinski-Str. 1;13347 Berlin;1;41624
+;Charité Campus Virchow-Klinikum;Augustenburger Platz 1;13353 Berlin;1;41624
+;Vivantes Humboldt-Klinikum GmbH;Am Nordgraben 2;13509 Berlin;1;41624
+;Vivantes Klinikum Spandau;Neue Bergstr. 6;13585 Berlin;1;41624
+;Schlosspark-Klinik;Heubnerweg 2;14059 Berlin;1;41624
+;Alexianer, St. Josefs-Krankenhaus Potsdam-Sanssouci;Allee nach Sanssouci 7;14471 Potsdam;1;41624
+;Asklepios Fachklinikum Brandenburg ;Anton-Saefkow-Allee 2;14772 Brandenburg an der Havel;1;41624
+;Klinikum Frankfurt (Oder) GmbH;Müllroser Chaussee 7;15236 Frankfurt (Oder);1;41624
+;Immanuel Klinik Rüdersdorf ;Seebad 82/83;15562 Rüdersdorf;1;41624
+;Asklepios Fachklinikum Teupitz;Buchholzer Str. 21;15755 Teupitz;1;41624
+;Stroke Unit Werner Forßmann Krankenhaus;Rudolf-Breitscheid-Str. 100;16225 Eberswalde;1;41624
+;Oberhavel Kliniken GmbH - Klinik Henningsdorf;Marwitzer Str. 91;16761 Henningsdorf;1;41624
+;Ruppiner Kliniken GmbH;Fehrbelliner Str. 38;16816 Neuruppin;1;41624
+;Dietrich-Bonhoeffer-Klinikum Neubrandenburg;Salvator-Allende-Str. 30;17036 Neubrandenburg;1;41624
+;AMEOS Klinikum Ueckermünde;Ravensteinstr. 23;Ravensteinstr. 23;1;41624
+;Universitätsmedizin Greifswald;Ferdinand-Sauerbruch-Str. ;17489 Greifswald;1;41624
+;Universitätsmedizin Rostock, Zentrum für Nervenheilkunde;Gehlsheimer Str. 20;18147 Rostock;1;41624
+;KMG Klinikum Güstrow GmbH;Friedrich-Trendelenburg-Allee 1;18273 Güstrow;1;41624
+;HELIOS Hanseklinikum Stralsund GmbH;Große Parower Str. 47-53;18435 Stralsund;1;41624
+;HELIOS Kliniken Schwerin GmbH;Wismarsche Str. 393-397;19049 Schwerin;1;41624
+;MediClin Krankenhaus Plau am See;Quetziner Str. 88;19395 Plau am See;1;41624
+;Asklepios Klinik St. Georg;Lohmühlenstr. 5;20099 Hamburg;1;41624
+;Universitätsklinikum Hamburg-Eppendorf;Martinistr. 52;20246 Hamburg;1;41624
+;Bethesda Krankenhaus Bergedorf gGmbH;Glindersweg 80;21029 Hamburg;1;41624
+;Asklepios Klinik Harburg ;Eißendorfer Pferdeweg 52;21075 Hamburg;1;41624
+;Krankenhäuser Buchholz und Winsen gGmbH;Steinbecker Str. 44;21244 Buchholz;1;41624
+;Städtisches Klinikum Lüneburg gGmbH;Bögelstr. 1;21339 Lüneburg;1;41624
+;Asklepios Klinik Wandsbek;Alphonsstr. 14;22043 Hamburg;1;41624
+;Kath. Marienkrankenhaus Hamburg gGmbH;Alfredstr. 9;22087 Hamburg;1;41624
+;Asklepios Klinik Barmbek;Rübenkamp 220;22291 Hamburg;1;41624
+;Asklepios Klinik Nord - Heidberg;Tangstedter Landstr. 400;22417 Hamburg;1;41624
+;Albertinen-Krankenhaus;Süntelstr. 11a;22457 Hamburg;1;41624
+;Asklepios Klinik Altona;Paul-Ehrlich-Str. 1;22763 Hamburg;1;41624
+;Sana Kliniken Lübeck GmbH;Kronsforder Allee 71-73;23560 Lübeck;1;41594
+;Uniklinikum Schleswig-Holstein, Campus Lübeck;Ratzeburger Allee 160 ;23538 Lübeck;;41624
+;Schön Klinik Neustadt;Am Kiebitzberg 10;23730 Neustadt in Holstein;1;41624
+;Segeberger Kliniken GmbH;Krankenhausstr. 2;23795 Bad Segeberg;1;41624
+;Universitätsklinikum Schleswig-Holstein, Campus Kiel;Arnold-Heller-Str. 3;24105 Kiel;1;41624
+;FEK - Friedrich-Ebert-Krankenhaus Neumünster GmbH;Friesenstr. 11;24534 Neumünster;1;41624
+;imland Klinik Rendsburg;Lilienstr. 20-28;24768 Rendsburg;1;41624
+;HELIOS Klinikum Schleswig;Lutherstr. 22;24837 Schleswig;1;41594
+;Diakonissenkrankenhaus Flensburg;Knuthstr. 1;24939 Flensburg;1;41624
+;Regio Kliniken GmbH, Klinikum Pinneberg;Fahltskamp 74;25421 Pinneberg;1;41624
+;Klinikum Itzehoe;Robert-Koch-Str. 2;25524 Itzehoe;1;41624
+;Evangelisches Krankenhaus Oldenburg;Steinweg 13-17;26122 Oldenburg;1;41624
+;Nordwest-Krankenhaus Sanderbusch GmbH;Hauptstr. ;26452 Sande;1;41624
+;Ammerland Klinik GmbH;Lange Str. 38;26655 Westerstede;1;41624
+;Klinikum Emden, Hans-Susemihl-Krankenhaus gGmbH;Bolardusstr. 20;26721 Emden;1;41624
+;Klinikum Bremerhaven-Reinkenheide gGmbH;Postbrookstr. 103;27574 Bremerhaven;1;41624
+;GESUNDHEIT NORD, Klinikum Bremen-Mitte gGmbH;St. Jürgen-Str. 1;28177 Bremen;1;41624
+;Allgemeines Krankenhaus Celle;Siemensplatz 4;29223 Celle;1;41624
+;HELIOS Klinikum Uelzen;Hagenskamp 34;29525 Uelzen;1;41624
+;DIAKOVERE Friederikenstift gGmbH;Humboldtstr. 5;30169 Hannover;1;41624
+;DIAKOVERE Henriettenstift;Marienstr. 72-90;30171 Hannover;1;41624
+;Medizinische Hochschule Hannover;Carl-Neuberg-Str. 1;30625 Hannover;1;41624
+;St. Bernward Krankenhaus;Treibestr. 9;31134 Hildesheim;1;41624
+;AGAPLESION EV. BATHILDISKRANKENHAUS;Maulbeerallee 4;31812 Bad Pyrmont;1;41624
+;BDH-Klinik Hessisch Oldendorf;Greitstr.  18-28;31840 Hessisch-Oldendorf;1;41624
+;Klinikum Herford;Schwarzenmoorstr. 70;32049 Herford;1;41624
+;Johannes Wesling Klinikum Minden;Hans-Nolte-Str. 1;32429 Minden;1;41624
+;St. Vincenz-Krankenhaus GmbH;Am Busdorf 2;33098 Paderborn;1;41624
+;Sankt Elisabeth Hospital GmbH;Stadtring Kattenstroth 130;33332 Gütersloh;1;41624
+;Evangelisches Krankenhaus Johannesstift Bielefeld gGmbH;Schildescher Str. 99;33611 Bielefeld;1;41624
+;Evangelisches Krankenhaus Haus Gilead Bielefeld gGmbH;Burgsteig 13;33617 Bielefeld;1;41624
+;Klinikum Kassel GmbH;Mönchebergstr. 41-43;34125 Kassel;1;41624
+;Universitätsklinikum Gießen und Marburg GmbH, Standort Marburg;Baldingerstr. 1;35043 Marburg;1;41624
+;Universitätsklinikum Gießen und Marburg, Standort Gießen;Klinikstr. 33;35385 Gießen;1;41624
+;Klinikum Wetzlar-Braunfels;Forsthausstr. 1-3a;35578 Wetzlar;1;41624
+;Vitos Klinikum Weilmünster;Weilstr. 10;35789 Weilmünster;1;41624
+;Klinikum Fulda gAG;Pacelliallee 4;36043 Fulda;1;41624
+;Klinikum Bad Salzungen GmbH;Lindigallee 3;36433 Bad Salzungen;1;41624
+;Universitätsmedizin Göttingen, Georg-August-Universität;Robert-Koch-Str. 40;37075 Göttingen;1;41624
+;Städtisches Klinikum Braunschweig gGmbH;Salzdahlumer Str. 90;38126 Braunschweig;1;41624
+;ASKLEPIOS Kliniken Schildautal;Karl-Herold-Str. 1;38723 Seesen;1;41624
+;Harzklinikum Dorothea Christiane Erxleben GmbH, Klinikum Wernigerode;Ilsenburger Str. 15;38855 Wernigerode;1;41624
+;Universitätsklinikum Düsseldorf AöR;Moorenstr. 5;40225 Düsseldorf;1;41624
+;Marien Hospital Düsseldorf GmbH;Rochusstr. 2;40479 Düsseldorf;1;41624
+;Kliniken Maria Hilf GmbH, Krankenhaus St. Franziskus;Viersener Str. 450;41063 Mönchengladbach;1;41624
+;Johanna Etienne Krankenhaus, Einrichtung der St. Augustinus-Kliniken;Am Hasenberg 46;41462 Neuss;1;41624
+;Hermann-Josef-Krankenhaus Erkelenz;Tenholter Str. 43;41812 Erkelenz;1;41624
+;Schlaganfallzentrum Kplus in der St. Lukas Klinik;Schwanenstr. 132;42697 Solingen;1;41624
+;Sana-Klinikum Remscheid;Burger Str. 211;42859 Remscheid;1;41624
+;Klinikum Dortmund gGmbH;Beurhausstr. 40;44137 Dortmund;1;41624
+;Klinikum Westfalen, Knappschaftskrankenhaus Dortmund;Am Knappschaftskrankenhaus 1;44309 Dortmund;1;41624
+;Klinikum Lünen, St.-Marien-Hospital GmbH;Altstadtstr. 23;44534 Lünen;1;41624
+;Evangelisches Krankenhaus Castrop-Rauxel;Grutholzallee 21;44577 Castrop-Rauxel;1;41624
+;Evangelisches Krankenhaus Herne;Wiescherstr. 24;44623 Herne;1;41624
+;Berufsgenossenschaftliches Universitätsklinikum Bergmannsheil GmbH;Bürkle-de-la-Camp-Platz 1;44789 Bochum;1;41624
+;Katholisches Klinikum Bochum, St. Josef-Hospital ;Gudrunstr. 56;44791 Bochum;1;41624
+;Universitätsklinikum Knappschaftskrankenhaus Bochum;In der Schornau 23-25;44892 Bochum;1;41624
+;Alfried Krupp Krankenhaus Rüttenscheid;Alfried-Krupp-Str. 21;45131 Essen;1;41624
+;Universitätsklinikum Essen;Hufelandstr. 55;45147 Essen;1;41624
+;Katholische Kliniken Ruhrhalbinsel gGmbH, St. Josef-Krankenhaus Kupferdreh;Heidbergweg 22-24;45257 Essen-Kupferdreh;1;41624
+;Katholisches Klinikum Essen - Philippusstift;Hülsmannstr. 17;45355 Essen;1;41624
+;St. Marien-Hospital Mülheim an der Ruhr;Kaiserstr. 50;45468 Mülheim a.d. Ruhr;1;41624
+;Augusta Kliniken, Evangelisches Krankenhaus Hattingen gGmbH;Bredenscheider Str. 54;45525 Hattingen;1;41624
+;Klinikum Vest GmbH, Knappschaftskrankenhaus Recklinghausen;Dorstener Str. 151;45657 Recklinghausen;1;41624
+;Elisabeth Krankenhaus Recklinghausen;Röntgenstr. 10;45661 Recklinghausen;1;41624
+;Evangelische Kliniken Gelsenkirchen GmbH;Munckelstr. 27;45879 Gelsenkirchen;1;41624
+;Katholische Kliniken Emscher-Lippe GmbH, St. Barbara-Hospital;Barbarastr. 1;45964 Gladbeck;1;41624
+;Katholisches Klinikum Oberhausen, St. Josef-Hospital;Mülheimer Str. 83;46045 Oberhausen;1;41624
+;Knappschaftskrankenhaus Bottrop;Osterfelder Str. 157;46242 Bottrop;1;41624
+;St. Marien-Hospital Borken GmbH, Klinikverbund Westmünsterland;Am Boltenhof 7;46325 Borken;1;41624
+;Evangelisches Krankenhaus Wesel;Schermbecker Landstr. 88;46485 Wesel;1;41624
+;SANA Klinikum Duisburg GmbH;Zu den Rehwiesen 7-9;47055 Duisburg;1;41624
+;Evangelisches Klinikum Niederrhein gGmbH - Evangelisches Krankenhaus Duisburg-Nord;Fahrner Str. 133;47169 Duisburg;1;??????????
+;St. Josef Krankenhaus GmbH Moers;Asberger Str. 4;47441 Moers;1;41624
+;Alexianer Krefeld GmbH, Krankenhaus Maria-Hilf;Dießemer Bruch 81;47805 Krefeld;1;41624
+;UKM Universitätsklinikum Münster;Albert-Schweitzer-Campus 1,  Gebäude A1;48149 Münster;1;41624
+;Herz-Jesu-Krankenhaus Hiltrup GmbH;Westfalenstr. 109;48165 Münster;1;41624
+;Christophorus-Kliniken GmbH, Franz-Hospital Dülmen;Vollenstr. 10;48249 Dülmen;1;41624
+;EUREGIO-KLINIK;Albert-Schweitzer-Str. 10;48527 Nordhorn;1;41624
+;Klinikum Osnabrück GmbH;Am Finkenhügel 1;49076 Osnabrück;1;41624
+;Krankenhaus St. Elisabeth gGmbH;Lindenstr. 3-7;49401 Damme;1;41624
+;Klinikum Ibbenbüren GmbH;Große Str.  41;49477 Ibbenbüren;1;41624
+;LWL-Klinik Lengerich;Parkallee 10;49525 Lengerich;1;41624
+;Christliches Krankenhaus Quakenbrück gGmbH;Danziger Str. 2;49610 Quakenbrück;1;41624
+;St. Katharinen-Hospital GmbH;Kapellenstr. 1-5;50226 Frechen;1;41624
+;Heilig Geist-Krankenhaus ;Graseggerstr. 105;50737 Köln;1;41624
+;Uniklinik Köln ;Kerpener Str. 62;50937 Köln;1;41624
+;Kliniken der Stadt Köln gGmbH, Klinikum Köln - Merheim;;;;??????????
+;Klinikum Leverkusen gGmbH;Am Gesundheitspark 11;51375 Leverkusen;1;41624
+;Marien-Krankenhaus;Dr. Robert-Koch-Str.  18;51465 Bergisch Gladbach;1;41624
+;Klinikum Oberberg - Kreiskrankenhaus Gummersbach GmbH;Wilhelm-Breckow-Allee 20;51643 Gummersbach;1;41624
+;Uniklinik RWTH Aachen;Pauwelstr. 30;52074 Aachen;1;41624
+;Rhein-Maas Klinikum Marienhöhe ;Mauerfeldchen 25;52146 Würselen;1;41624
+;LVR-Klinik Bonn;Kaiser-Karl-Ring 20;53111 Bonn;1;41624
+;Universitätsklinikum Bonn;Sigmund-Freud-Str. 25;53127 Bonn;1;41624
+;DRK Kamillus Klinik;Hospitalstr. 6;53567 Asbach;1;41624
+;St. Johannes Krankenhaus gGmbH;Wilhelm-Busch-Str. 9;53844 Troisdorf;1;41624
+;Marien-Hospital Euskirchen;Gottfried-Disse-Str. 40;53879 Euskirchen;1;41624
+;Krankenhaus der Barmherzigen Brüder Trier;Nordallee 1;54292 Trier;1;41624
+;Verbundkrankenhaus Bernkastel/Wittlich - St. Elisabeth Krankenhaus Wittlich;Koblenzer Str. 91;54516 Wittlich;1;41624
+;Universitätsmedizin der Johannes Gutenberg-Universität Mainz;Langenbeckstr. 1;55131 Mainz;1;41624
+;Klinikum Idar-Oberstein GmbH;Dr. Ottmar-Kohler-Str. 2;55743 Idar-Oberstein;1;41624
+;Katholisches Klinikum Koblenz·Montabaur, Brüderhaus Koblenz;Kardinal-Krementz-Str. 1-5;56073 Koblenz;1;41624
+;Rhein-Mosel-Fachklinik Andernach;Vulkanstr. 58;56626 Andernach;1;41624
+;Kreisklinikum Siegen GmbH;Weidenauer Str. 76;57076 Siegen;1;41624
+;Katholisches Krankenhaus Hagen gGmbH, St.-Johannes-Hospital;Hospitalstr. 6-10;58099 Hagen;1;41624
+;Gemeinschaftskrankenhaus Herdecke;Gerhard-Kienle-Weg 4;58313 Herdecke;1;41624
+;St. Marien-Hospital Hamm gGmbH;Knappenstr. 19;59071 Hamm;1;41624
+;Evangelisches Krankenhaus Unna;Holbeinstr. 10;59423 Unna;1;41624
+;Sankt Katharinen-Krankenhaus;Seckbacher Landstr.  65;60389 Frankfurt;1;41624
+;Krankenhaus Nordwest ;Steinbacher Hohl 2-26;60488 Frankfurt;1;41624
+;Klinikum der Johann Wolfgang Goethe-Universität;Schleusenweg 2-16;60528 Frankfurt am Main;1;41624
+;Hochtaunus-Kliniken gGmbH, Krankenhaus Bad Homburg;Zeppelinstr. 20;61352 Bad Homburg;1;41624
+;Sana Klinikum Offenbach GmbH;Starkenburgring 66;63069 Offenbach;1;41624
+;Klinikum Hanau GmbH;Leimenstr. 20;63450 Hanau;1;41624
+;Asklepios Neurologische Klinik Bad Salzhausen;Am Hasensprung 6;63667 Nidda;1;41624
+;Klinikum Aschaffenburg ;;;1;??????????
+;Klinikum Darmstadt GmbH;Grafenstr. 9;64283 Darmstadt;1;41624
+;HELIOS Dr. Horst Schmidt Kliniken;Ludwig-Erhard-Str. 100;65199 Wiesbaden;1;41624
+;GPR Klinikum Rüsselsheim;August-Bebel-Str. 59;65428 Rüsselsheim;1;41624
+;Klinikum Frankfurt Höchst;Gotenstr. 6-8;65929 Frankfurt am Main;1;41624
+;cts CaritasKlinikum Saarbrücken St. Theresia ;Rheinstr. 2;66113 Saarbrücken;1;41624
+;Klinikum Saarbrücken gGmbH;Winterberg 1;66119 Saarbrücken;1;41624
+; Krankenhaus Sulzbach;An der Klinik 10;66280 Sulzbach;1;41624
+;Knappschaftskrankenkaus Püttlingen ;In der Humes 35;66346 Püttlingen;1;41624
+;Universitätsklinikum des Saarlandes;Kirrbergerstr., Gebäude 90 ;66421 Homburg;1;41624
+;Diakonie Klinikum Neunkirchen gGmbH;Brunnenstr. 20;66538 Neunkirchen;1;41624
+;Marienkrankenhaus St. Wendel;Am Hirschberg 1;66606 St. Wendel;1;41624
+;Klinikum Merzig gGmbH;Trierer Str. 148;66663 Merzig;1;41624
+;Krankenhaus Saarlouis vom DRK;Vaubanstr. 25;66740 Saarlouis;1;41624
+;Marienhaus Klinikum Dillingen;Werkstr. 3;66763 Dillingen;1;41624
+;Klinikum der Stadt Ludwigshafen am Rhein gGmbH;Bremserstr. 79;67063 Ludwigshafen;1;41624
+;Klinikum Worms gGmbH;Gabriel-von-Seidl-Str. 81;67550 Worms;1;41624
+;Westpfalz-Klinikum GmbH;Hellmut-Hartert-Str. 1;67655 Kaiserslautern;1;41624
+;Universitätsklinikum Heidelberg;im Neuenheimer Feld 400;69120 Heidelberg;1;41624
+;Klinikum Stuttgart - Katharinenhospital;Kriegsbergstr. 60;70174 Stuttgart;1;41624
+;Marienhospital Stuttgart;Böheimstr. 37;70199 Stuttgart;1;41624
+;Klinikum Sindelfingen  Böblingen;Arthur-Gruber-Str. 70;71065 Sindelfingen;1;41624
+;Rems-Murr-Klinikum Winnenden;Am Jakobsweg 1;71364 Winnenden;1;41624
+;Klinikum Ludwigsburg;Posilipostr. 4;71640 Ludwigsburg;1;41624
+;Universitätsklinikum Tübingen;Hoppe-Seyler-Str. 3;72076 Tübingen;1;41624
+;SRH Krankenhaus Sigmaringen;Hohenzollernstr. 40;72488 Sigmaringen;1;41624
+;Klinikum Christophsbad;Faurndauner Str. 6-28;73035 Göppingen;1;41624
+;Kreiskliniken Esslingen gGmbH, Klinik Kirchheim;Eugenstr. 3;73230 Kirchheim unter Teck;1;41624
+;Ostalb-Klinikum Aalen;Im Kälblesrain 1;73430 Aalen;1;41624
+;Klinikum Esslingen ;Hirschlandstr. 97;73730 Esslingen am Neckar;1;41624
+;SLK-Kliniken Heilbronn GmbH, Klinik am Gesundbrunnen;Am Gesundbrunnen 20-26;74078 Heilbronn;1;41624
+;Diakonie-Klinikum Schwäbisch Hall gGmbH;Diakoniestr. 10;74523 Schwäbisch Hall;1;41624
+;HELIOS Klinikum Pforzheim;Kanzlerstr. 2-6;75175 Pforzheim;1;41624
+;Städtisches Klinikum Karlsruhe gGmbH;Moltkestr. 90;76133 Karlsruhe;1;41624
+;SRH Klinikum Karlsbad-Langensteinbach GmbH;Guttmannstr. 1;76307 Karlsbad-Langensteinbach;1;41624
+;Ortenau Klinikum Offenburg-Gengenbach;Ebertplatz 12;77654 Offenburg;1;41624
+;Ortenau Klinikum Lahr-Ettenheim, Standort Lahr;Klosterstr. 19;77933 Lahr-Ettenheim;1;41624
+;Schwarzwald-Baar Klinikum Villingen-Schwenningen GmbH;Klinikstr. 11;78052 Villingen-Schwenningen;1;41624
+;Universitätsklinikum Freiburg;Breisacher Str. 64;79106 Freiburg;1;41624
+;HELIOS Klinikum München West;Steinerweg 5;81241 München;1;41624
+;LMU-Klinikum der Universität München, Klinikum Großhadern;Marchioninistr. 15;81377 München;1;41624
+;Städtisches Klinikum München GmbH, Klinikum Harlaching;Sanatoriumsplatz 2;81545 München;1;41624
+;Klinikum rechts der Isar der Technischen Universität München;Ismaninger Str. 22;81675 München;1;41624
+;Städtisches Klinikum München GmbH, Klinikum Bogenhausen;Englschalkinger Str.  77;81925 München;1;41624
+;Benedictus Krankenhaus Tutzing Gmbh & Co. KG;Bahnhofstr. 5;82327 Tutzing;1;41624
+;RoMed Klinikum Rosenheim;Pettenkoferstr. 10;83022 Rosenheim;1;41624
+;Schön Klinik Bad Aibling;Kolbermoorer Str. 72;83043 Bad Aibling;1;41624
+;Kliniken Südostbayern, Klinikum Traunstein;Cuno-Niggl-Str. 3;83278 Traunstei;1;41624
+;Krankenhaus Agatharied GmbH;Norbert-Kerkel-Platz ;83734 Hausham;1;41624
+;Klinikum Landshut gGmbH;Robert-Koch-Str. 1;84034 Landshut;1;41624
+;Krankenhaus Vilsbiburg;Krankenhausstr. 2;84137 Vilsbiburg;1;41624
+;Rottal Inn Kliniken GmbH;Simonsöder Allee 20;84307 Eggenfelden;1;41624
+;Kliniken Kreis Mühldorf am Inn;Krankenhausstr. 1;84453 Mühldorf am Inn;1;41624
+;Klinikum Ingolstadt;Krumenauerstr. 25;85049 Ingolstadt;1;41624
+;HELIOS Amper-Klinikum Dachau;Krankenhausstr. 15;85221 Dachau;1;41624
+;kbo-Isar-Amper-Klinikum München-Ost;Vockestr. 72;85540 Haar;1;41624
+;Klinikum Augsburg;Stenglinstr. 2;86156 Augsburg;1;41624
+;Bezirkskrankenhaus Kaufbeuren;Dr. Gutermannstr. 2;87600 Kaufbeuren;1;41624
+;Klinikum Memmingen;Bismarckstr. 23;87700 Memmingen;1;41624
+;Oberschwabenklinik St. Elisabeth;Elisabethenstr. 15;88212 Ravensburg;1;41624
+;RKU - Universitäts- und Rehabilitationskliniken Ulm gGmbH;Oberer Eselsberg 45;89081 Ulm;1;41624
+;Bezirkskrankenhaus Günzburg;Ludwig-Heilmeyer-Str. 2;89312 Günzburg;1;41624
+;Klinikum Heidenheim ;Schloßhaustr. 100;89522 Heidenheim;1;41624
+;Klinikum Nürnberg Süd;Breslauer Str. 201;90471 Nürnberg;1;41624
+;Krankenhaus Rummelsberg gGmbH;Rummelsberg 71;90592 Schwarzenbruck;1;41624
+;Klinikum Fürth;Jakob-Henle-Str. 1;90766 Fürth;1;41624
+;Universitätsklinikum Erlangen;Schwabachanlage 6;91054 Erlangen;1;41624
+;Stadtkrankenhaus Schwabach;Regelsbacher Str. 7;91126 Schwabach;1;41624
+;Klinikum Forchheim;Krankenhausstr. 10;91301 Forchheim;1;41624
+;Klinikum Ansbach;Escherichstr. 1;91522 Ansbach;1;41624
+;ANregiomed Klinik Dinkelsbühl;Crailsheimer Str. 6;91550 Dinkelsbühl;1;41624
+;Klinikum Altmühlfranken, Kreisklinik Gunzenhausen;Albert-Schweitzer-Str. 90;91710 Gunzenhausen;1;41624
+;Klinikum St. Marien Amberg;Mariahilfbergweg 7;92224 Amberg;1;41624
+;Kliniken des Landkreises Neumarkt i.d.OPf. - Klinikum Neumarkt;Nürnberger Str. 12;92318 Neumarkt;1;41624
+;Klinikum Nordoberpfalz AG, Klinikum Weiden ;Söllner Str. 16;92637 Weiden;1;41624
+;Krankenhaus Barmherzige Brüder Regensburg;Prüfeninger Str. 86;93049 Regensburg;1;41624
+;medbo - Bezirksklinikum Regensburg;Universitätsstr. 84;93053 Regensburg;1;41624
+;Klinikum Passau;Innstr. 76;94032 Passau;1;41624
+;Bezirksklinikum Mainkofen;Mainkofen C3;94469 Deggendorf;1;41624
+;DONAUISAR Klinikum Deggendorf-Dingolfing-Landau gKU;Perlasberger Str. 41;94469 Deggendorf;1;41624
+;Sana Klinikum Hof;Eppenreuther Str. 9;95032 Hof;1;41624
+;Klinikum Kulmbach;Albert-Schweitzer-Str. 10;95326 Kulmbach;1;41624
+;Klinikum Bayreuth GmbH, Klinik Hohe Warte;Hohe Warte 8;95445 Bayreuth;1;41624
+;Sozialstiftung Bamberg, Klinikum Bamberg;Buger Str. 80;96049 Bamberg;1;41624
+;Helmut-G.-Walther Klinikum Lichtenfels GmbH;Prof.-Arneth-Str. 2;96215 Lichtenfels;1;41624
+;REGIOMED-Kliniken, Klinikum Coburg;Ketschendorfer Str. 33;96450 Coburg;1;41624
+;MEDINOS Klinik Sonneberg;Neustadter Str.  61;96515 Sonneberg;1;41624
+;Klinikum Würzburg Mitte Juliusspital;Juliuspromenade 19;97070 Würzburg;1;41624
+;Universitätsklinikum Würzburg AöR;Josef-Schneider-Str. 11;97080 Würzburg;1;41624
+;Klinik Kitzinger Land;Keltenstr. 67;97318 Kitzingen;1;41624
+;Leopoldina-Krankenhaus der Stadt Schweinfurt GmbH;Gustav-Adolf-Str. 8;97422 Schweinfurt;1;41624
+;Neurologische Klinik Campus Bad Neustadt;Von-Guttenberg-Str. 10;97616 Bad Neustadt an der Saale;1;41624
+;Klinikum Main-Spessart, Krankenhaus Lohr;Grafen-von-Rieneck-Str. 5;97816 Lohr;1;41624
+;Caritas-Krankenhaus Bad Mergentheim;Uhlandstr. 7;97980 Bad Mergentheim;1;41624
+;SRH Zentralklinikum Suhl;Albert-Schweitzer-Str. 2;98527 Suhl;1;41624
+;HELIOS Klinikum Meiningen;Bergstr. 3;98617 Meiningen;1;41624
+;HELIOS Fachkliniken Hildburghausen;Eisfelder Str. 41;98646 Hildburghausen;1;41624
+;HELIOS Klinikum Erfurt;Nordhäuser Str. 74;99089 Erfurt;1;41624
+;Sophien- und Hufeland-Klinikum Weimar gGmbH;Henry-van-der-Velde-Str. 2;99425 Weimar;1;41624
+;Zentralklinik Bad Berka;;;1;??????????
+;Ökumenisches Hainich Klinikum gGmbH;Pfafferode 102;99974 Mühlhausen;1;41624
+;Universitätsklinikum Dresden;Fetscherstr. 74 ;01307 Dresden;;41624
+;Sana HANSE-Klinikum ;Störtebekerstr. 6 ;23966 Wismar;;41624
+;Westküstenklinikum Heide;Esmarchstr. 50;25746 Heide;;41624
+;Klinikum Weser-Egge , St.Ansgar Krankenhaus;Brenkhäuser Str. 71 ;37671 Hoexter;;41624
+;Klinikum Wolfsburg;Sauerbruchstr. 7 ;38440 Wolfsburg;;41624
+;Helios Uniklinikum Wuppertal ;Heusnerstr. 40 ;42283 Wuppertal;;41624
+;Klinikum Lüdenscheid;Paulmannshöher Str. 14 ;58515 Luedenscheid;;41624
+;St. Vincenz-Krankenhaus Limburg;Auf dem Schafsberg;65549 Limburg;;41624
+;Diakonnissenkrankenhaus Mannheim;Speyerer Str. 91-93;68163 Mannheim;;41624
+;Kreiskliniken Reutlingen,Klinik am Steinenberg ;Steinenbergstr. 31;72764 Reutlingen;;41624
+;Gesundheitszentrum Tuttlingen;Zeppelinstr. 21;78532 Tuttlingen;;41624
+;Kreisklinik Altötting;"Vinzenz-von-Paul-Str. 10 
+";84503 Altoetting;;41624
+;Klinikum Kempten;Robert-Weixler-Str. 50;87439 Kempten;;41624
+;Sana Klinikum Biberach;Ziegelhausstr. 50 ;88400 Biberach;;41624
+;Aesklepios Klinik im Städtedreieck ;Dr.-Sauerbruch-Str. 1;93133 Burglengenfeld;;41624
+;St.Georg Klinikum Eisenach;Mühlhäuser Str. 94;99817 Eisenach;;41624
+;AMEOS Klinikum Oldenburg;Mühlenkamp 5 ;23758 Oldenburg;;41624
+;Elbe Klinikum Stade;Bremervörder Str. 111;21682 Stade;;41624
+;Krankenhaus Winsen;Friedrich-Lichtenauer-Allee 10 ;21423 Winsen (Luhe);;41624
+;HELIOS Klinikum Krefeld;Lutherplatz 40 ;47805 Krefeld;;41624
+;Paracelsus-Klinik Osnabrück;Am Natruper Holz 69 ;49076 Osnabrück;;41624
+;Main-Kinzig-Kliniken Gelnhausen;Herzbachweg 14 ;63571 Gelnhausen;;41624
+41624;Hegau-Bodensee-Klinikum Singen;Virchowstr. 10 ;78224 Singen;;41624
+;DONAUISAR Klinikum Dingolfingen;Teisbacher Str. 1 ;84130 Dingolfingen;;41624
+;Klinikum Friedrichshafen GmbH;Röntgenstr. 2;88048 Friedrichshafen;;41624
