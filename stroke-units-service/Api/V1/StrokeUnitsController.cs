@@ -6,7 +6,6 @@ using stroke_units_service.Models;
 using stroke_units_service.Services;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
@@ -32,6 +31,9 @@ namespace stroke_units_service.Api.V1
             _locationService = locationService ?? throw new ArgumentNullException(nameof(locationService));
             _strokeUnitsService = strokeUnitsService ?? throw new ArgumentNullException(nameof(strokeUnitsService));
         }
+
+        [HttpGet("cannary")]
+        public IActionResult Cannary() => Ok();
 
         [HttpGet]
         public IEnumerable<IStrokeUnitRecord> Get(CancellationToken cancellationToken)
