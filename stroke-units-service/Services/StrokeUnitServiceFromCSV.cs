@@ -41,7 +41,7 @@ namespace stroke_units_service.Services
         public async Task<IEnumerable<IStrokeUnitRecord>> GetRecordsWithLocationAsync(string fileName, CancellationToken cancellationToken)
         {
             var records = await GetRecordsAsync(fileName, cancellationToken);
-            return records?.Select(record => record.WithLocationAsync(_locationService, cancellationToken).GetAwaiter().GetResult());
+            return records?.Select(record => record.WithLocationAsync(_locationService, cancellationToken).GetAwaiter().GetResult()).Where(x => x != null);
         }
 
         public IChangeToken Watch(string fileName)

@@ -49,6 +49,8 @@ namespace stroke_units_service.Models
         {
             var result = new StrokeUnitRecordFromCSV(this);
             (result.Latitude, result.Longitude) = await locationService.GetLocationAsync(Location, cancellationtoken);
+            if (result.Latitude == 0 && result.Longitude == 0)
+                return null;
             return result;
         }
 

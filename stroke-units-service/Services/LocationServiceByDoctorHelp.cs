@@ -12,7 +12,7 @@ namespace stroke_units_service.Services
     {
         private readonly Random _random = new Random();
         private readonly TimeSpan MaxTTL = TimeSpan.FromDays(30);
-        private TimeSpan RetryTTL => TimeSpan.FromHours(_random.Next(1, 24));
+        private TimeSpan RetryTTL => TimeSpan.FromMilliseconds(1);// TimeSpan.FromHours(_random.Next(1, 24));
         private readonly IMemoryCache _cache;
         private readonly StartupOptions _options;
 

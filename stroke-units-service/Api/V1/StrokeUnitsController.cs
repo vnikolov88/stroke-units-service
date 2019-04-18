@@ -7,6 +7,7 @@ using stroke_units_service.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -46,7 +47,8 @@ namespace stroke_units_service.Api.V1
             [BindRequired, FromQuery]string address,
             CancellationToken cancellationToken)
         {
-            var location = await _locationService.GetLocationAsync(address, cancellationToken);
+            var decodedAddress = Encoding.UTF8.GetString(Convert.FromBase64String(address));
+            var location = await _locationService.GetLocationAsync(decodedAddress, cancellationToken);
             var searchlocation = new GeoCoordinate(location.Latitude, location.Longitude);
 
             var allStrokeUnits = _options.DataFiles.SelectMany(
