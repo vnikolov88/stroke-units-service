@@ -3,9 +3,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using stroke_units_service.Services;
+using StrokeUnitsService.Services;
 
-namespace stroke_units_service
+namespace StrokeUnitsService
 {
     public class StartupOptions
     {

@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace stroke_units_service
+namespace StrokeUnitsService
 {
     public class Program
     {

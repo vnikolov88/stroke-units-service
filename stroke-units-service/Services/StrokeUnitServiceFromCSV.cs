@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Primitives;
-using stroke_units_service.Models;
+using StrokeUnitsService.Models;
 
-namespace stroke_units_service.Services
+namespace StrokeUnitsService.Services
 {
     public class StrokeUnitServiceFromCSV : IStrokeUnitService
     {

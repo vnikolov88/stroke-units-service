@@ -1,10 +1,10 @@
 ﻿using Microsoft.Extensions.Primitives;
-using stroke_units_service.Models;
+using StrokeUnitsService.Models;
 using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace stroke_units_service.Services
+namespace StrokeUnitsService.Services
 {
     public interface IStrokeUnitService
     {

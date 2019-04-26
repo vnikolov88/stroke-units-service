@@ -2,8 +2,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.Extensions.Options;
-using stroke_units_service.Models;
-using stroke_units_service.Services;
+using StrokeUnitsService.Models;
+using StrokeUnitsService.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace stroke_units_service.Api.V1
+namespace StrokeUnitsService.Api.V1
 {
     [Produces("application/json")]
     [Route("api/v1/[controller]")]
