@@ -2,15 +2,16 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.Extensions.Options;
-using stroke_units_service.Models;
-using stroke_units_service.Services;
+using StrokeUnitsService.Models;
+using StrokeUnitsService.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace stroke_units_service.Api.V1
+namespace StrokeUnitsService.Api.V1
 {
     [Produces("application/json")]
     [Route("api/v1/[controller]")]
@@ -46,7 +47,8 @@ namespace stroke_units_service.Api.V1
             [BindRequired, FromQuery]string address,
             CancellationToken cancellationToken)
         {
-            var location = await _locationService.GetLocationAsync(address, cancellationToken);
+            var decodedAddress = Encoding.UTF8.GetString(Convert.FromBase64String(address));
+            var location = await _locationService.GetLocationAsync(decodedAddress, cancellationToken);
             var searchlocation = new GeoCoordinate(location.Latitude, location.Longitude);
 
             var allStrokeUnits = _options.DataFiles.SelectMany(

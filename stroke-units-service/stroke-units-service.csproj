@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
-    <RootNamespace>stroke_units_service</RootNamespace>
+    <RootNamespace>StrokeUnitsService</RootNamespace>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <UserSecretsId>e5d07211-a881-4221-a418-b02cc104a558</UserSecretsId>
   </PropertyGroup>

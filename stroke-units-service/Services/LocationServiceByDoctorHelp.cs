@@ -6,12 +6,12 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace stroke_units_service.Services
+namespace StrokeUnitsService.Services
 {
     public class LocationServiceByDoctorHelp : ILocationService
     {
         private readonly Random _random = new Random();
-        private readonly TimeSpan MaxTTL = TimeSpan.FromDays(30);
+        private TimeSpan MaxTTL => TimeSpan.FromDays(_random.Next(7, 60));
         private TimeSpan RetryTTL => TimeSpan.FromHours(_random.Next(1, 24));
         private readonly IMemoryCache _cache;
         private readonly StartupOptions _options;

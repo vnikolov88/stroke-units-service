@@ -1,8 +1,8 @@
-﻿using stroke_units_service.Services;
+﻿using StrokeUnitsService.Services;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace stroke_units_service.Models
+namespace StrokeUnitsService.Models
 {
     public interface IStrokeUnitRecord
     {
